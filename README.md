@@ -1,3 +1,8 @@
+Version from:
+https://github.com/Raks-kmt/Save-Restricted-Content-Bot-Repo
+
+
+
 <h1 align="center">
   <b>Save restricted Content Bot by <a href="https://devgagan.in"> devgagan </a> | Enterprise Release June 2024.
 </h1> 
